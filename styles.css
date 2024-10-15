@@ -1,0 +1,40 @@
+/* styles.css */  
+body.cover {  
+  background-color: #282c34; /* 深色背景 */  
+  color: white; /* 白色文字 */  
+  text-align: center; /* 居中对齐 */  
+  padding: 20px; /* 内边距 */  
+}  
+
+.cover img {  
+  border-radius: 50%; /* 圆形图片 */  
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 图片阴影 */  
+  margin-bottom: 20px; /* 图片下方的间距 */  
+}  
+
+.cover h1 {  
+  font-size: 3em; /* 大标题字体 */  
+  margin-bottom: 0.5em; /* 标题下方的间距 */  
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 标题阴影 */  
+}  
+
+.cover p {  
+  font-size: 1.2em; /* 副标题字体 */  
+  margin-bottom: 2em; /* 副标题下方的间距 */  
+}  
+
+.cover a {  
+  display: inline-block; /* 行内块元素 */  
+  margin: 0 10px; /* 按钮之间的间距 */  
+  padding: 10px 20px; /* 按钮内边距 */  
+  background-color: #61dafb; /* 按钮背景色 */  
+  color: white; /* 按钮文字颜色 */  
+  text-decoration: none; /* 去除下划线 */  
+  border-radius: 5px; /* 按钮圆角 */  
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 按钮阴影 */  
+  transition: background-color 0.3s ease; /* 背景色过渡效果 */  
+}  
+
+.cover a:hover {  
+  background-color: #21a1f1; /* 鼠标悬停时按钮背景色 */  
+}
