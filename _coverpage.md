@@ -1,4 +1,4 @@
-<!-- _coverpage.md -->  
+<!-- _coverpage.md 封面页 -->  
   
 <div class="cover">  
     <img src="_media/icon.jpeg" alt="logo" style="width: 150px; height: 150px;"> 
